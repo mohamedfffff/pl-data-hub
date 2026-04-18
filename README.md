@@ -13,9 +13,7 @@ Built with **React** (frontend) and **Spring Boot** (backend), it provides a use
 - 📦 Backend serves static React frontend for deployment simplicity
 
 ⚙️ Technologies Used
-React (frontend)
-Spring Boot (backend)
-Axios for HTTP requests
-Java 17 / Maven
-CSS / AnimatedLetters (for clean visuals)
+- React (frontend)
+- Spring Boot (backend)
+- Postgres (database)
 
